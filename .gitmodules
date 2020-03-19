@@ -9,3 +9,6 @@
 	path = lit-element
 	url = https://github.com/Polymer/lit-element.git
 	branch = hydration
+[submodule "template-shadowroot"]
+	path = template-shadowroot
+	url = https://github.com/webcomponents/template-shadowroot.git

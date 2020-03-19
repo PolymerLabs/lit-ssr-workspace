@@ -6,7 +6,7 @@ This repo uses git submodules to check out the following repos/branches:
 * PolymerLabs/lit-ssr master
 * Polymer/lit-html hydration
 * Polymer/lit-element hydration
-* webcomponents/template-attach-shadow master
+* webcomponents/template-shadowroot master
 
 Then is uses lerna to treat the submodule directories like packages in a lerna monorepo so that we can run commands across all the repos install dependencies, link the repos together, and build them.
 
