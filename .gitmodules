@@ -9,6 +9,3 @@
 	path = lit-element
 	url = https://github.com/Polymer/lit-element.git
 	branch = hydration
-[submodule "template-attach-shadow"]
-	path = template-attach-shadow
-	url = https://github.com/webcomponents/template-attach-shadow.git
