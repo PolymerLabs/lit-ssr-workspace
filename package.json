@@ -1,0 +1,24 @@
+{
+  "name": "lit-ssr-workspace",
+  "version": "0.0.0",
+  "description": "A workspace for working on lit-ssr and related projects",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build",
+    "lerna": "lerna"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolymerLabs/lit-ssr-workspace.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/PolymerLabs/lit-ssr-workspace/issues"
+  },
+  "homepage": "https://github.com/PolymerLabs/lit-ssr-workspace#readme",
+  "dependencies": {
+    "lerna": "^3.20.2"
+  }
+}
