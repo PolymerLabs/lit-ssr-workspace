@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "lit-element",
+    "lit-html",
+    "lit-ssr",
+    "template-shadowroot"
+  ],
+  "version": "independent"
+}

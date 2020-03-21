@@ -1,0 +1,14 @@
+[submodule "lit-ssr"]
+	path = lit-ssr
+	url = https://github.com/PolymerLabs/lit-ssr.git
+[submodule "lit-html"]
+	path = lit-html
+	url = https://github.com/Polymer/lit-html.git
+	branch = hydration
+[submodule "lit-element"]
+	path = lit-element
+	url = https://github.com/Polymer/lit-element.git
+	branch = hydration
+[submodule "template-shadowroot"]
+	path = template-shadowroot
+	url = https://github.com/webcomponents/template-shadowroot.git
