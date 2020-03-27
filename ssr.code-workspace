@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "lit-ssr",
+			"path": "lit-ssr"
+		},
+		{
+			"name": "lit-html",
+			"path": "lit-html"
+		},
+		{
+			"name": "lit-element",
+			"path": "lit-element"
+		},
+		{
+			"name": "template-shadowroot",
+			"path": "template-shadowroot"
+		},
+		{
+			"name": "lit-ssr-workspace",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
